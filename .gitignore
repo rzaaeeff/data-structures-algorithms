@@ -7,6 +7,9 @@
 .springBeans
 .sts4-cache
 
+# git
+.gitattributes
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
