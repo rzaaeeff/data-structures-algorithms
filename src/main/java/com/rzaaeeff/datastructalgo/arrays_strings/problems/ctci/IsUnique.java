@@ -1,4 +1,4 @@
-package com.rzaaeeff.datastructalgo.arrays_strings.problems;
+package com.rzaaeeff.datastructalgo.arrays_strings.problems.ctci;
 
 import com.rzaaeeff.datastructalgo.arrays_strings.impl.HashTable;
 

@@ -1,4 +1,4 @@
-package com.rzaaeeff.datastructalgo.arrays_strings.problems;
+package com.rzaaeeff.datastructalgo.arrays_strings.problems.ctci;
 
 import java.util.Arrays;
 

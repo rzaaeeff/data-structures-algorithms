@@ -1,4 +1,4 @@
-package com.rzaaeeff.datastructalgo.arrays_strings.problems;
+package com.rzaaeeff.datastructalgo.arrays_strings.problems.ctci;
 
 public class StringCompression {
     public static void main(String[] args) {
