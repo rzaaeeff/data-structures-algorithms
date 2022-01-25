@@ -18,7 +18,7 @@ public class IsUnique {
         HashTable<Integer, Integer> counts = new HashTable<>();
 
         for (int i = 0; i < s.length(); i++) {
-            if (counts.put(s.codePointAt(i), counts.getOrDefault(s.codePointAt(i), 0)+1) > 1)
+            if (counts.put(s.codePointAt(i), counts.getOrDefault(s.codePointAt(i), 0) + 1) > 1)
                 return false;
         }
 
@@ -41,7 +41,7 @@ public class IsUnique {
         Arrays.sort(chars);
 
         for (int i = 1; i < chars.length; i++) {
-            if (chars[i] == chars[i-1])
+            if (chars[i] == chars[i - 1])
                 return false;
         }
 
